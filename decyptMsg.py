@@ -20,7 +20,7 @@ except:
 print("\n")
 print("User Input message: ", tmp_msg, '\n')    
 
-#apptend each character in msg in to  array
+#seperate each character in msg in to  array
 tmp_arr = [*str(tmp_msg)]
 
 #print(" tmp message array : ", tmp_arr)
